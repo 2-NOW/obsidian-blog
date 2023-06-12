@@ -1,8 +1,9 @@
 import "./globals.css";
 
-import { GlobalLayout } from "components/global/layout";
 import { Inter } from "next/font/google";
 import { PropsWithChildren } from "react";
+
+import { GlobalLayout } from "components/global/layout";
 
 const inter = Inter({ subsets: ["latin"] });
 
