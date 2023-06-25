@@ -1,4 +1,5 @@
-import "./globals.css";
+import "styles/global.css";
+import "styles/tw.css";
 
 import { Inter } from "next/font/google";
 import { PropsWithChildren } from "react";
